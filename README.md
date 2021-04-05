@@ -1,4 +1,3 @@
-<!--
 **akosidencio/akosidencio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,9 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-<!-- If you're using "master" as default branch -->
-![Metrics](https://github.com/my-github-user/akosidencio/blob/master/github-metrics.svg)
-<!-- If you're using "main" as default branch -->
-![Metrics](https://github.com/my-github-user/akosidencio/blob/main/github-metrics.svg)
