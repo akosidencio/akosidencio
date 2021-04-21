@@ -3084,7 +3084,7 @@ create test_drive booking component
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="97.73092531519532 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="97.73431481760527 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3146,7 +3146,7 @@ create test_drive booking component
                                 <div class="title">
                                     Great developer
                                     <span class="gh">
-                                        ranked 599k out of 70m users
+                                        ranked 600k out of 70m users
                                     </span>
                                 </div>
                                 <div class="text">
@@ -3497,7 +3497,7 @@ create test_drive booking component
                     These metrics include private contributions
                 </span>
                 <span>
-                    Last updated Wed, 21 Apr 2021 10:16:29 GMT with lowlighter/metrics@3.7.0
+                    Last updated Wed, 21 Apr 2021 11:14:29 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
