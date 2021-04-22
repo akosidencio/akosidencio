@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2720" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2377" class="">
     <defs>
         <style/>
     </defs>
@@ -2843,6 +2843,37 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">
+                                            Lica-Ventures/mechanigo-api
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>
+                                        on branch
+                                        <span class="code">
+                                            main
+                                        </span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">
+                                            #2b110ac
+                                        </span>
+                                        <span class="message">
+                                            fixed migrations
+                                        </span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -2952,189 +2983,6 @@ fetching of services
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 20 commits in
-                                        <span class="repo">
-                                            Digitersco/nalav3
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>
-                                        on branch
-                                        <span class="code">
-                                            dev
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #db48bf7
-                                        </span>
-                                        <span class="message">
-                                            phone authentication
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #c35d055
-                                        </span>
-                                        <span class="message">
-                                            phone authentication ui
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #f0269c6
-                                        </span>
-                                        <span class="message">
-                                            modify onboarding
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #335aab6
-                                        </span>
-                                        <span class="message">
-                                            integrate screens based on new process flow
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #366c945
-                                        </span>
-                                        <span class="message">
-                                            integrate screens based on new process flow
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #3fe3b10
-                                        </span>
-                                        <span class="message">
-                                            integrate screens based on new process flow
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #c69c7af
-                                        </span>
-                                        <span class="message">
-                                            integrate screens based on new process flow
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #3a24fa9
-                                        </span>
-                                        <span class="message">
-                                            integrate screens based on new process flow
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #8759094
-                                        </span>
-                                        <span class="message">
-                                            integrate screens based on new process flow
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #91418dd
-                                        </span>
-                                        <span class="message">
-                                            fixed ios
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #70bb903
-                                        </span>
-                                        <span class="message">
-                                            modify phone auth process
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #c04554f
-                                        </span>
-                                        <span class="message">
-                                            fixed ios
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #7ae406d
-                                        </span>
-                                        <span class="message">
-                                            modify
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #51214c9
-                                        </span>
-                                        <span class="message">
-                                            fixed bugs
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #3793621
-                                        </span>
-                                        <span class="message">
-                                            change google service json
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #dd0af09
-                                        </span>
-                                        <span class="message">
-                                            change google service json
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #944c041
-                                        </span>
-                                        <span class="message">
-                                            ios fixed
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #a74d460
-                                        </span>
-                                        <span class="message">
-                                            fixed ios
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #dce075e
-                                        </span>
-                                        <span class="message">
-                                            fixed ios
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #186b2a0
-                                        </span>
-                                        <span class="message">
-                                            merge phoneauthentication
-                                        </span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -3230,7 +3078,7 @@ fetching of services
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="97.80189742354769 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="97.8054690489916 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3341,7 +3189,7 @@ fetching of services
                                 <div class="title">
                                     Inspirationer
                                     <span class="gh">
-                                        ranked 1.38m out of 224m repositories
+                                        ranked 1.38m out of 225m repositories
                                     </span>
                                 </div>
                                 <div class="text">
@@ -3544,7 +3392,7 @@ fetching of services
                                 <div class="title">
                                     Maintainer
                                     <span class="gh">
-                                        ranked 1.89m out of 224m repositories
+                                        ranked 1.89m out of 225m repositories
                                     </span>
                                 </div>
                                 <div class="text">
@@ -3643,7 +3491,7 @@ fetching of services
                     These metrics include private contributions
                 </span>
                 <span>
-                    Last updated Thu, 22 Apr 2021 06:19:45 GMT with lowlighter/metrics@3.7.0
+                    Last updated Thu, 22 Apr 2021 07:19:59 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
