@@ -3210,7 +3210,7 @@ added migration for engine_size and tier_id to appointments table
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="98.17332121144088 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="98.17752342973108 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3623,7 +3623,7 @@ added migration for engine_size and tier_id to appointments table
                     These metrics include private contributions
                 </span>
                 <span>
-                    Last updated Mon, 26 Apr 2021 15:17:36 GMT with lowlighter/metrics@3.7.0
+                    Last updated Mon, 26 Apr 2021 16:28:25 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
