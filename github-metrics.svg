@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2815" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2407" class="">
     <defs>
         <style/>
     </defs>
@@ -2778,6 +2778,44 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
+                                        <span class="sha">#c414b92</span>
+                                        <span class="message">set up dev/staging env</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">Lica-Ventures/mechanigo-api</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#35d8029</span>
+                                        <span class="message">set up dev/staging env</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">Lica-Ventures/mechanigo-api</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
                                         <span class="sha">#29b6d1c</span>
                                         <span class="message">set up dev/staging env</span>
                                     </div>
@@ -2818,122 +2856,6 @@
                                     <div class="commit">
                                         <span class="sha">#96acc66</span>
                                         <span class="message">set up dev/staging env</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">Lica-Ventures/mechanigo-api</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#62e37c9</span>
-                                        <span class="message">set up dev/staging env</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 110 commits in <span class="repo">Lica-Ventures/mechanigo-api</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#b190ff1</span>
-                                        <span class="message">override default reset mail notifications</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#acd56f2</span>
-                                        <span class="message">override default reset mail notifications</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#0e7b73f</span>
-                                        <span class="message">override default reset mail notifications</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#dbbe4f6</span>
-                                        <span class="message">modify email settings</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#bc67dbf</span>
-                                        <span class="message">modify email settings</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#effc05e</span>
-                                        <span class="message">modify email settings</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#d4a862d</span>
-                                        <span class="message">added migration to modify classification to engine_size and delete variant column</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#17a0715</span>
-                                        <span class="message">modify email settings</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#2276bfc</span>
-                                        <span class="message">modify email settings</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#a591ed3</span>
-                                        <span class="message">modify sent email response</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#63eda79</span>
-                                        <span class="message">Merge branch 'main' of https://github.com/Lica-Ventures/mechanigo-api into main</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#3b72b6d</span>
-                                        <span class="message">fix traits request password</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#8771bf5</span>
-                                        <span class="message">fix traits request password</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#61dbc0d</span>
-                                        <span class="message">change email settings</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f18045b</span>
-                                        <span class="message">added forgot password features</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#499af0b</span>
-                                        <span class="message">added update/put appointment</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#a4f1321</span>
-                                        <span class="message">fix merge conflict</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#abe6b50</span>
-                                        <span class="message">Merge pull request #7 from Lica-Ventures/dev
-
-save voucher and discount</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f065a23</span>
-                                        <span class="message">Merge branch 'main' of https://github.com/Lica-Ventures/mechanigo-api into main</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#52209fa</span>
-                                        <span class="message">fix checkout</span>
                                     </div>
                                 </div>
                             </section>
@@ -3029,7 +2951,7 @@ save voucher and discount</span>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="99.35560110175672 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="99.35853373753804 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3433,7 +3355,7 @@ save voucher and discount</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Mon, 10 May 2021 13:22:45 GMT with lowlighter/metrics@3.8.0</span>
+                <span>Last updated Mon, 10 May 2021 14:13:31 GMT with lowlighter/metrics@3.8.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
