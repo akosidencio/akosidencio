@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2382" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3057" class="">
     <defs>
         <style/>
     </defs>
@@ -1339,7 +1339,7 @@
                                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/></svg>
                   
-                    82 views in last two weeks
+                    83 views in last two weeks
                   
                 </div>
                             </section>
@@ -2861,6 +2861,196 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 115 commits in <span class="repo">akosidencio/bookspineph-theme</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#a301c6c</span>
+                                        <span class="message">Update from Shopify for theme bookspineph-theme/main</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d550215</span>
+                                        <span class="message">Update from Shopify for theme bookspineph-theme/main</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f986d8a</span>
+                                        <span class="message">Update from Shopify for theme bookspineph-theme/main</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#fb5c8a0</span>
+                                        <span class="message">books count added comma separator</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a598da2</span>
+                                        <span class="message">Update from Shopify for theme bookspineph-theme/main</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#1b1c308</span>
+                                        <span class="message">Update from Shopify for theme bookspineph-theme/main</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0f93b8b</span>
+                                        <span class="message">Update from Shopify for theme bookspineph-theme/main</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8540aaf</span>
+                                        <span class="message">Update from Shopify for theme bookspineph-theme/main</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8a44f7e</span>
+                                        <span class="message">Update from Shopify for theme bookspineph-theme/main</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#7e916cd</span>
+                                        <span class="message">Update from Shopify for theme bookspineph-theme/main</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8c820c5</span>
+                                        <span class="message">modify reversed sorting---</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#26ced70</span>
+                                        <span class="message">modify reversed sorting---</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#be44025</span>
+                                        <span class="message">modify reversed sorting---</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#ed31571</span>
+                                        <span class="message">modify reversed sorting---</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#aa1b25f</span>
+                                        <span class="message">modify reversed sorting--</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5ef54d5</span>
+                                        <span class="message">modify reversed sorting--</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f456111</span>
+                                        <span class="message">modify reversed sorting-</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a6ebc16</span>
+                                        <span class="message">modify reversed sorting</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#3ed569c</span>
+                                        <span class="message">modify reversed sorting</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#59af4f3</span>
+                                        <span class="message">modify reversed sorting</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 41 commits in <span class="repo">akosidencio/bookspineph-theme</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#50c5e82</span>
+                                        <span class="message">Update from Shopify for theme bookspineph-theme/dev</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#b3556cd</span>
+                                        <span class="message">Update from Shopify for theme bookspineph-theme/dev</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#151ace2</span>
+                                        <span class="message">Update from Shopify for theme bookspineph-theme/dev</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0dc5a87</span>
+                                        <span class="message">Update from Shopify for theme bookspineph-theme/dev</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5c9af2e</span>
+                                        <span class="message">Update from Shopify for theme bookspineph-theme/dev</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e0899ac</span>
+                                        <span class="message">Update from Shopify for theme bookspineph-theme/dev</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a1f0228</span>
+                                        <span class="message">Update from Shopify for theme bookspineph-theme/dev</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#1ff0630</span>
+                                        <span class="message">Update from Shopify for theme bookspineph-theme/dev</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#65e0953</span>
+                                        <span class="message">Update from Shopify for theme bookspineph-theme/dev</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a7709fe</span>
+                                        <span class="message">Update from Shopify for theme bookspineph-theme/dev</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#24ad5b1</span>
+                                        <span class="message">Update from Shopify for theme bookspineph-theme/dev</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5feafab</span>
+                                        <span class="message">Update from Shopify for theme bookspineph-theme/dev</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f115f25</span>
+                                        <span class="message">modify themes</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#9d2d379</span>
+                                        <span class="message">add github actions</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#458cb93</span>
+                                        <span class="message">add github actions</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#1a4aa4d</span>
+                                        <span class="message">modify themes</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#7e80b2e</span>
+                                        <span class="message">Merge branch 'main' into dev</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#eaf3ee2</span>
+                                        <span class="message">add github actions</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#1116fd1</span>
+                                        <span class="message">add github actions</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#6f1d6eb</span>
+                                        <span class="message">add github actions</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 1 commit in <span class="repo">Digitersco/nalav3</span>
                     </div>
                                 </div>
@@ -2907,44 +3097,6 @@
                                     <div class="commit">
                                         <span class="sha">#246fc37</span>
                                         <span class="message">removed bootcamp conditions</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">Lica-Ventures/mechanigoph-web</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#2c50a9b</span>
-                                        <span class="message">add phone validation</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">Digitersco/nalav3</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#effabee</span>
-                                        <span class="message">modify display of multilpe images</span>
                                     </div>
                                 </div>
                             </section>
@@ -3040,7 +3192,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="105.79936917906521 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="105.8027324854135 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3444,7 +3596,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25/07/2021, 10:15  with lowlighter/metrics@3.11.0</span>
+                <span>Last updated 25/07/2021, 11:12  with lowlighter/metrics@3.11.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
