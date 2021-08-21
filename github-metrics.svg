@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2523" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2453" class="">
     <defs>
         <style/>
     </defs>
@@ -2937,6 +2937,25 @@
                                 <div class="details">
                                     <div>on branch <span class="code">features-edit</span></div>
                                     <div class="commit">
+                                        <span class="sha">#6ebfedf</span>
+                                        <span class="message">fixed skin overview</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">Digitersco/nalav3</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">features-edit</span></div>
+                                    <div class="commit">
                                         <span class="sha">#f0650eb</span>
                                         <span class="message">modify fetching local stored photos</span>
                                     </div>
@@ -3000,39 +3019,6 @@
                                     <div class="commit">
                                         <span class="sha">#fb7b276</span>
                                         <span class="message">modify insights</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 4 commits in <span class="repo">Lica-Ventures/goparts-business</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#5f5c0e0</span>
-                                        <span class="message">Merge pull request #49 from Lica-Ventures/new-promo-computation
-
-New promo computation</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#4fb80c7</span>
-                                        <span class="message">fix bug in discount not reflecting on initial load</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#adf1eaf</span>
-                                        <span class="message">update ecq banner advisory</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#4daa391</span>
-                                        <span class="message">update 5% off promo to 7% off</span>
                                     </div>
                                 </div>
                             </section>
@@ -3130,7 +3116,7 @@ New promo computation</span>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="54.032374268597806 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="54.03381153234398 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3580,7 +3566,7 @@ New promo computation</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21/08/2021, 02:24  with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 21/08/2021, 03:13  with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
