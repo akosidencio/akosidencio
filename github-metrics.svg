@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2542" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2470" class="">
     <defs>
         <style/>
     </defs>
@@ -1513,14 +1513,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="373.9854189323415" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="373.9854189323415" y="0" width="59.525850496426145" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="433.5112694287676" y="0" width="18.462902417251414" height="8" fill="#67b8de"/>
-                    <rect mask="url(#languages-bar)" x="451.97417184601903" y="0" width="3.4687934950294164" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="455.4429653410484" y="0" width="2.89161299091776" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="458.3345783319662" y="0" width="1.1578903961538236" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.49246872812" y="0" width="0.27243702340008336" height="8" fill="#f7931e"/>
-                    <rect mask="url(#languages-bar)" x="459.7649057515201" y="0" width="0.23509424847988758" height="8" fill="#f0c040"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="373.98331254324245" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="373.98331254324245" y="0" width="59.525515230407066" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="433.5088277736495" y="0" width="18.465389276048796" height="8" fill="#67b8de"/>
+                    <rect mask="url(#languages-bar)" x="451.97421704969827" y="0" width="3.4687739578270693" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="455.44299100752534" y="0" width="2.891596704555313" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="458.33458771208063" y="0" width="1.1578838745955358" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.4924715866761" y="0" width="0.27243548895957526" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="459.76490707563573" y="0" width="0.23509292436419435" height="8" fill="#f0c040"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2957,6 +2957,25 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 1 commit in <span class="repo">Lica-Ventures/buyacarph-dashboard</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#f6840bd</span>
+                                        <span class="message">fixed pagination</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 3 commits in <span class="repo">Lica-Ventures/autoplex-web</span>
                     </div>
                                 </div>
@@ -3022,41 +3041,6 @@
                                     <div class="commit">
                                         <span class="sha">#07a6c09</span>
                                         <span class="message">added social share log events</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 5 commits in <span class="repo">Lica-Ventures/carmax-web</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#34c1f8c</span>
-                                        <span class="message">added social share log events</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#ea0422c</span>
-                                        <span class="message">added social share log events</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#447118b</span>
-                                        <span class="message">fixed sorting</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#99491c1</span>
-                                        <span class="message">fixed</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#c3b5e89</span>
-                                        <span class="message">changed advisor numbers</span>
                                     </div>
                                 </div>
                             </section>
@@ -3154,7 +3138,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="54.21071316652397 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="54.21253779510718 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3217,7 +3201,7 @@
                   <span class="prefix">Great</span> developer
                   
                     <span class="gh">
-                      ranked 652k out of 75m users
+                      ranked 653k out of 75m users
                     </span>
                   
                   
@@ -3604,7 +3588,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25/08/2021, 07:11  with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 25/08/2021, 08:13  with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
