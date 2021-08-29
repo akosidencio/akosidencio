@@ -1513,14 +1513,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="373.89145782118976" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="373.89145782118976" y="0" width="59.314777289475906" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="433.2062351106657" y="0" width="18.40001633304335" height="8" fill="#67b8de"/>
-                    <rect mask="url(#languages-bar)" x="451.6062514437091" y="0" width="3.4564934714071094" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="455.0627449151162" y="0" width="2.881359596431803" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="457.94410451154795" y="0" width="1.4374000177361275" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.3815045292841" y="0" width="0.34702448401656794" height="8" fill="#a86454"/>
-                    <rect mask="url(#languages-bar)" x="459.72852901330066" y="0" width="0.2714709866993648" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="373.8914652181801" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="373.8914652181801" y="0" width="59.31477219415291" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="433.20623741233305" y="0" width="18.400014752424987" height="8" fill="#67b8de"/>
+                    <rect mask="url(#languages-bar)" x="451.606252164758" y="0" width="3.456493174483619" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="455.06274533924164" y="0" width="2.8813593489140934" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="457.94410468815573" y="0" width="1.4373998942590158" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.3815045824148" y="0" width="0.34702445420609046" height="8" fill="#a86454"/>
+                    <rect mask="url(#languages-bar)" x="459.72852903662084" y="0" width="0.27147096337916665" height="8" fill="#f7931e"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2948,6 +2948,25 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <span class="sha">#9fa87ab</span>
+                                        <span class="message">fixed---</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">akosidencio/bookspineph-shopify-api</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <span class="sha">#f95cdf2</span>
                                         <span class="message">fixed---</span>
                                     </div>
@@ -3006,25 +3025,6 @@
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
                                         <span class="sha">#cd9a159</span>
-                                        <span class="message">fixed---</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">akosidencio/bookspineph-shopify-api</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#836d26c</span>
                                         <span class="message">fixed---</span>
                                     </div>
                                 </div>
@@ -3123,7 +3123,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="54.3895744290969 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="54.39131301636226 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3186,7 +3186,7 @@
                   <span class="prefix">Great</span> developer
                   
                     <span class="gh">
-                      ranked 626k out of 76m users
+                      ranked 627k out of 76m users
                     </span>
                   
                   
@@ -3573,7 +3573,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29/08/2021, 12:16  with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 29/08/2021, 13:15  with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
