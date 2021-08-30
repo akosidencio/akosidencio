@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2435" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2772" class="">
     <defs>
         <style/>
     </defs>
@@ -1392,7 +1392,7 @@
                                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    1.03m added, 3.61m removed
+                    994k added, 3.57m removed
                   
                 </div>
                             </section>
@@ -1513,14 +1513,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="373.8955062505743" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="373.8955062505743" y="0" width="59.31198858023478" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="433.2074948308091" y="0" width="18.39915124852429" height="8" fill="#67b8de"/>
-                    <rect mask="url(#languages-bar)" x="451.60664607933336" y="0" width="3.456330962910473" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="455.06297704224386" y="0" width="2.881224128096579" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="457.9442011703405" y="0" width="1.4373324377687764" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.38153360810924" y="0" width="0.34700816851426486" height="8" fill="#a86454"/>
-                    <rect mask="url(#languages-bar)" x="459.7285417766235" y="0" width="0.27145822337656567" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="373.89536241127973" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="373.89536241127973" y="0" width="59.312078589287836" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="433.20744100056754" y="0" width="18.399192341411045" height="8" fill="#67b8de"/>
+                    <rect mask="url(#languages-bar)" x="451.6066333419786" y="0" width="3.4563362080739632" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="455.06296955005257" y="0" width="2.8812285005052876" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="457.9441980505578" y="0" width="1.4373346189961258" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.38153266955396" y="0" width="0.3470086951173581" height="8" fill="#a86454"/>
+                    <rect mask="url(#languages-bar)" x="459.72854136467134" y="0" width="0.27145863532865516" height="8" fill="#f7931e"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2943,6 +2943,120 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 20 commits in <span class="repo">akosidencio/bookspineph-shopify-api</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#ee174e5</span>
+                                        <span class="message">fixeddd</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#6acfbdb</span>
+                                        <span class="message">added get single product</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#9fa87ab</span>
+                                        <span class="message">fixed---</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f95cdf2</span>
+                                        <span class="message">fixed---</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0efd826</span>
+                                        <span class="message">fixed---</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a62bea5</span>
+                                        <span class="message">fixed---</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#cd9a159</span>
+                                        <span class="message">fixed---</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#836d26c</span>
+                                        <span class="message">fixed---</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#84645da</span>
+                                        <span class="message">fixed---</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#193a6f9</span>
+                                        <span class="message">fixed---</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#15b08a0</span>
+                                        <span class="message">fixed---</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#2a74090</span>
+                                        <span class="message">fixed---</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d18c313</span>
+                                        <span class="message">fixed---</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#7312295</span>
+                                        <span class="message">fixed---</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#cef9736</span>
+                                        <span class="message">changed host name</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5552e17</span>
+                                        <span class="message">changed host name</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c022e5f</span>
+                                        <span class="message">changed host name</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#cd2ae67</span>
+                                        <span class="message">fixedd--</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#15eb973</span>
+                                        <span class="message">changed prod. env</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#ab3f632</span>
+                                        <span class="message">changed prod. env</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">akosidencio/bookspineph-shopify-api</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#ee174e5</span>
+                                        <span class="message">fixeddd</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 1 commit in <span class="repo">akosidencio/bookspineph-sellers</span>
                     </div>
                                 </div>
@@ -2988,44 +3102,6 @@
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
                                         <span class="sha">#9fa87ab</span>
-                                        <span class="message">fixed---</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">akosidencio/bookspineph-shopify-api</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#f95cdf2</span>
-                                        <span class="message">fixed---</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">akosidencio/bookspineph-shopify-api</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#0efd826</span>
                                         <span class="message">fixed---</span>
                                     </div>
                                 </div>
@@ -3124,7 +3200,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="54.411410121924156 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="54.41361100740424 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3574,7 +3650,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30/08/2021, 00:37  with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 30/08/2021, 01:51  with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
