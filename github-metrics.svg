@@ -1463,7 +1463,7 @@
                                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    1.03m added, 3.61m removed
+                    995k added, 3.57m removed
                   
                 </div>
                             </section>
@@ -1584,14 +1584,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="388.3325611015296" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="388.3325611015296" y="0" width="52.39069251901892" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="440.7232536205486" y="0" width="13.303174008228268" height="8" fill="#67b8de"/>
-                    <rect mask="url(#languages-bar)" x="454.02642762877684" y="0" width="2.4598799646715412" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="456.48630759344843" y="0" width="2.0505748964690755" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="458.5368824899175" y="0" width="1.0229533294643287" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.5598358193818" y="0" width="0.24696663903586835" height="8" fill="#a86454"/>
-                    <rect mask="url(#languages-bar)" x="459.8068024584177" y="0" width="0.1931975415823748" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="388.33238700421776" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="388.33238700421776" y="0" width="52.39066903121582" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="440.7230560354336" y="0" width="13.303374271416075" height="8" fill="#67b8de"/>
+                    <rect mask="url(#languages-bar)" x="454.02643030684965" y="0" width="2.4598788618577876" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="456.48630916870746" y="0" width="2.0505739771550315" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="458.5368831458625" y="0" width="1.0229528708537392" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.55983601671625" y="0" width="0.24696652831574778" height="8" fill="#a86454"/>
+                    <rect mask="url(#languages-bar)" x="459.806802545032" y="0" width="0.1931974549680241" height="8" fill="#f7931e"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -3026,6 +3026,25 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 1 commit in <span class="repo">Digitersco/nalav3</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">features-edit</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#30c32a1</span>
+                                        <span class="message">fixed first poscorad missing title</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 3 commits in <span class="repo">Lica-Ventures/autoplex-web</span>
                     </div>
                                 </div>
@@ -3098,25 +3117,6 @@
                                     <div>on branch <span class="code">features-edit</span></div>
                                     <div class="commit">
                                         <span class="sha">#5f5bd76</span>
-                                        <span class="message">adjust feedback</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">Digitersco/nalav3</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">features-edit</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#4ce8be2</span>
                                         <span class="message">adjust feedback</span>
                                     </div>
                                 </div>
@@ -3665,7 +3665,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18/10/2021, 08:14  with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 18/10/2021, 09:13  with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
