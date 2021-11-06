@@ -1463,7 +1463,7 @@
                                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    1.03m added, 3.61m removed
+                    995k added, 3.57m removed
                   
                 </div>
                             </section>
@@ -1584,14 +1584,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="388.34489866761885" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="388.34489866761885" y="0" width="52.39246949500855" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="440.73736816262743" y="0" width="13.288869682053742" height="8" fill="#67b8de"/>
-                    <rect mask="url(#languages-bar)" x="454.0262378446812" y="0" width="2.459958116582238" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="456.48619596126343" y="0" width="2.0506400445041373" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="458.53683600576755" y="0" width="1.0229858293254597" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.559821835093" y="0" width="0.24697448531901878" height="8" fill="#a86454"/>
-                    <rect mask="url(#languages-bar)" x="459.806796320412" y="0" width="0.19320367958798215" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="388.3419309325865" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="388.3419309325865" y="0" width="52.3920691113092" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="440.7340000438957" y="0" width="13.292283452326878" height="8" fill="#67b8de"/>
+                    <rect mask="url(#languages-bar)" x="454.02628349622256" y="0" width="2.459939317561301" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="456.48622281378385" y="0" width="2.050624373495403" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="458.5368471872793" y="0" width="1.022978011659015" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.5598251989383" y="0" width="0.24697259793789267" height="8" fill="#a86454"/>
+                    <rect mask="url(#languages-bar)" x="459.8067977968762" y="0" width="0.19320220312381262" height="8" fill="#f7931e"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -3028,45 +3028,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <span class="sha">#1ab4195</span>
-                                        <span class="message">cart page</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">akosidencio/bookspineph-theme</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#54833e3</span>
-                                        <span class="message">cart page</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">akosidencio/bookspineph-theme</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#fdf111d</span>
+                                        <span class="sha">#20a3a54</span>
                                         <span class="message">log product</span>
                                     </div>
                                 </div>
@@ -3085,7 +3047,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <span class="sha">#c3e77ba</span>
+                                        <span class="sha">#d782bfe</span>
                                         <span class="message">log product</span>
                                     </div>
                                 </div>
@@ -3104,7 +3066,45 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <span class="sha">#693aaeb</span>
+                                        <span class="sha">#f52a727</span>
+                                        <span class="message">log product</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">akosidencio/bookspineph-theme</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#ae2f920</span>
+                                        <span class="message">log product</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">akosidencio/bookspineph-theme</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#cc2d78a</span>
                                         <span class="message">log product</span>
                                     </div>
                                 </div>
@@ -3653,7 +3653,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Nov 2021, 12:17:56  with lowlighter/metrics@3.15.0</span>
+                <span>Last updated 6 Nov 2021, 13:16:58  with lowlighter/metrics@3.15.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
