@@ -1367,7 +1367,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1387,7 +1387,7 @@
           </h2>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            7818 Commits
+            7826 Commits
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -1463,7 +1463,7 @@
                                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    1.04m added, 3.61m removed
+                    995k added, 3.57m removed
                   
                 </div>
                             </section>
@@ -1584,14 +1584,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="388.24435810802345" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="388.24435810802345" y="0" width="52.37727308722544" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="440.6216311952489" y="0" width="13.406339335953579" height="8" fill="#67b8de"/>
-                    <rect mask="url(#languages-bar)" x="454.02797053120247" y="0" width="2.4592446070449077" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="456.4872151382474" y="0" width="2.05004525745491" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="458.53726039570233" y="0" width="1.0226891128322573" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.5599495085346" y="0" width="0.2469028505015134" height="8" fill="#a86454"/>
-                    <rect mask="url(#languages-bar)" x="459.8068523590361" y="0" width="0.19314764096394865" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="388.2388214132214" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="388.2388214132214" y="0" width="52.3765261427571" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="440.6153475559785" y="0" width="13.41270814144425" height="8" fill="#67b8de"/>
+                    <rect mask="url(#languages-bar)" x="454.02805569742276" y="0" width="2.459209536124884" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="456.48726523354765" y="0" width="2.050016022065692" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="458.5372812556133" y="0" width="1.0226745284155698" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.55995578402894" y="0" width="0.24689932945684026" height="8" fill="#a86454"/>
+                    <rect mask="url(#languages-bar)" x="459.8068551134857" y="0" width="0.19314488651428977" height="8" fill="#f7931e"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2695,10 +2695,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-5.1, 8.64)">
+                            <g transform="translate(-5.1, 8.16)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.36 0,1.3599999999999999 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3599999999999999 1.7,2.36 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.84 0,1.84 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.84 1.7,2.84 z"/>
                             </g>
                         </g>
                     </g>
@@ -3050,7 +3050,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#6e32ed1</span>
+                                        <span class="sha">#d0b1d2e</span>
                                         <span class="message">added downpayment filter</span>
                                     </div>
                                 </div>
@@ -3063,33 +3063,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">akosidencio/bookspineph-shopify-api</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#112eb0b</span>
-                                        <span class="message">added webhooks</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">Lica-Ventures/carmax-web</span>
+                      Pushed 1 commit in <span class="repo">Lica-Ventures/autoplex-api</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#2cf04bd</span>
-                                        <span class="message">added flash sale text</span>
+                                        <span class="sha">#1c7422f</span>
+                                        <span class="message">added downpayment filter</span>
                                     </div>
                                 </div>
                             </section>
@@ -3101,14 +3082,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">Lica-Ventures/mechanigo-api</span>
+                      Pushed 1 commit in <span class="repo">Lica-Ventures/autoplex-api</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#a54b836</span>
-                                        <span class="message">fixed --</span>
+                                        <span class="sha">#c31bc7b</span>
+                                        <span class="message">added downpayment filter</span>
                                     </div>
                                 </div>
                             </section>
@@ -3120,14 +3101,33 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">Digitersco/nalav3</span>
+                      Pushed 1 commit in <span class="repo">Lica-Ventures/autoplex-api</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">codereview</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#a54fdb0</span>
-                                        <span class="message">fixed -</span>
+                                        <span class="sha">#21afff5</span>
+                                        <span class="message">added downpayment filter</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">Lica-Ventures/autoplex-api</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#6e32ed1</span>
+                                        <span class="message">added downpayment filter</span>
                                     </div>
                                 </div>
                             </section>
@@ -3675,7 +3675,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Nov 2021, 04:15:59  with lowlighter/metrics@3.15.0</span>
+                <span>Last updated 10 Nov 2021, 05:10:49  with lowlighter/metrics@3.15.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
