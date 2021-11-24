@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2533" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2584" class="">
     <defs>
         <style/>
     </defs>
@@ -3131,87 +3131,38 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">Lica-Ventures/autoplex-web</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#bc5328c</span>
-                                        <span class="message">fixed autoloan calculator</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">akosidencio/bookspineph-shopify-api</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#15e37e0</span>
-                                        <span class="message">fixed</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 4 commits in <span class="repo">Lica-Ventures/autoplex-web</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#696077b</span>
-                                        <span class="message">Merge branch 'mike' into dev</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 5 commits in <span class="repo">Lica-Ventures/autoplex-web</span>
+                      Pushed 7 commits in <span class="repo">Lica-Ventures/autoplex-web</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">mike</span></div>
                                     <div class="commit">
-                                        <span class="sha">#c363968</span>
-                                        <span class="message">loan breakdown</span>
+                                        <span class="sha">#bc5328c</span>
+                                        <span class="message">fixed autoloan calculator</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#51e83fe</span>
-                                        <span class="message">Merge branch 'master' into mike</span>
+                                        <span class="sha">#696077b</span>
+                                        <span class="message">Merge branch 'mike' into dev</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#738ea2c</span>
-                                        <span class="message">clickable price in car page</span>
+                                        <span class="sha">#64bd8c6</span>
+                                        <span class="message">ff</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#2e52308</span>
-                                        <span class="message">fixed financing url</span>
+                                        <span class="sha">#35553f2</span>
+                                        <span class="message">ff</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#4330eba</span>
-                                        <span class="message">add params financing url</span>
+                                        <span class="sha">#26ccb25</span>
+                                        <span class="message">Merge branch 'master' into dev</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#2a97acb</span>
+                                        <span class="message">Merge branch 'dev' of https://github.com/Lica-Ventures/autoplex-web into dev</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#063e58e</span>
+                                        <span class="message">RE: Cars page loan breakdown info include all in dp breakdown</span>
                                     </div>
                                 </div>
                             </section>
@@ -3223,14 +3174,71 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">Digitersco/nalav3</span>
+                      Pushed 1 commit in <span class="repo">Lica-Ventures/mechanigoph-web</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">codereview</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <span class="sha">#feb0423</span>
-                                        <span class="message">logwithnonumber</span>
+                                        <span class="sha">#5e72f52</span>
+                                        <span class="message">trial social login</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">Lica-Ventures/mechanigoph-web</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#09724da</span>
+                                        <span class="message">trial social login</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">Lica-Ventures/mechanigoph-web</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#80b790c</span>
+                                        <span class="message">trial social login</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">Lica-Ventures/mechanigoph-web</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#3d90482</span>
+                                        <span class="message">trial social login</span>
                                     </div>
                                 </div>
                             </section>
@@ -3778,7 +3786,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Nov 2021, 12:19:31  with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 24 Nov 2021, 13:19:23  with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
