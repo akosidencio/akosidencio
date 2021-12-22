@@ -1524,7 +1524,7 @@
                                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    1.05m added, 3.61m removed
+                    1.01m added, 3.57m removed
                   
                 </div>
                             </section>
@@ -1675,14 +1675,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="387.59416065720075" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="387.59416065720075" y="0" width="52.27537128257386" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="439.86953193977456" y="0" width="13.525527391302067" height="8" fill="#67b8de"/>
-                    <rect mask="url(#languages-bar)" x="453.39505933107665" y="0" width="2.6797879467022536" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="456.0748472777789" y="0" width="2.454457426247242" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="458.5293047040261" y="0" width="1.0214653110444298" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.55077001507055" y="0" width="0.2464222278821026" height="8" fill="#a86454"/>
-                    <rect mask="url(#languages-bar)" x="459.79719224295263" y="0" width="0.2028077570472797" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="387.5935222924625" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="387.5935222924625" y="0" width="52.27528518542098" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="439.8688074778835" y="0" width="13.526262731482023" height="8" fill="#67b8de"/>
+                    <rect mask="url(#languages-bar)" x="453.3950702093655" y="0" width="2.6797835331111712" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="456.07485374247665" y="0" width="2.454453383773873" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="458.5293071262505" y="0" width="1.0214636286985586" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.5507707549491" y="0" width="0.24642182202650165" height="8" fill="#a86454"/>
+                    <rect mask="url(#languages-bar)" x="459.7971925769756" y="0" width="0.20280742302439214" height="8" fill="#f7523f"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2911,7 +2911,7 @@
                   </div>
                                     <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/></svg>
-                    144
+                    145
                   </div>
                                     <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/></svg>
@@ -3131,6 +3131,44 @@
                     </div>
                                 </div>
                                 <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#de0b106</span>
+                                        <span class="message">modify text</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">akosidencio/bookspineph-theme</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#e17c15b</span>
+                                        <span class="message">hide checkout button</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">Lica-Ventures/autoplex-web</span>
+                    </div>
+                                </div>
+                                <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
                                         <span class="sha">#f9f19ea</span>
@@ -3173,44 +3211,6 @@
                                     <div class="commit">
                                         <span class="sha">#7722bae</span>
                                         <span class="message">fixed update daily with add photo btn</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">Lica-Ventures/autoplex-web</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#2b007e1</span>
-                                        <span class="message">mobile</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">Lica-Ventures/autoplex-web</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#d8d8da1</span>
-                                        <span class="message">modified icon</span>
                                     </div>
                                 </div>
                             </section>
@@ -3758,7 +3758,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Dec 2021, 13:21:44  with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 22 Dec 2021, 14:12:13  with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
