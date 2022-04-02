@@ -333,14 +333,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="387.2491859016971" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="387.2491859016971" y="0" width="52.182171936757804" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="439.43135783845497" y="0" width="13.85181465417742" height="8" fill="#67b8de"/>
-                    <rect mask="url(#languages-bar)" x="453.28317249263233" y="0" width="2.675009797879623" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="455.95818229051196" y="0" width="2.450081049050736" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="458.4082633395627" y="0" width="1.0188410551016835" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.42710439466435" y="0" width="0.37044946109683113" height="8" fill="#a86454"/>
-                    <rect mask="url(#languages-bar)" x="459.7975538557612" y="0" width="0.20244614423879298" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="387.2492553029977" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="387.2492553029977" y="0" width="52.18212215710042" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="439.43137746009813" y="0" width="13.851801440112885" height="8" fill="#67b8de"/>
+                    <rect mask="url(#languages-bar)" x="453.28317890021106" y="0" width="2.675007246029703" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="455.95818614624073" y="0" width="2.4500787117736413" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="458.4082648580144" y="0" width="1.0188400831689954" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.4271049411834" y="0" width="0.3704491077031994" height="8" fill="#a86454"/>
+                    <rect mask="url(#languages-bar)" x="459.7975540488866" y="0" width="0.20244595111345293" height="8" fill="#f7523f"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1820,6 +1820,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#8ed66fd</div>
+                                        <div class="message">fixed</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">akosidencio/bookspineph-admin</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#d034a59</div>
                                         <div class="message">fixed</div>
                                     </div>
@@ -1882,26 +1902,6 @@
                                     <div class="commit">
                                         <div class="sha">#9f33cd3</div>
                                         <div class="message">added booking edit details</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">enclavewrx/cp-web</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dd2df80</div>
-                                        <div class="message">modified templates</div>
                                     </div>
                                 </div>
                             </section>
@@ -2426,7 +2426,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Apr 2022, 07:12:49  with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 2 Apr 2022, 08:16:10  with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
