@@ -333,14 +333,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="387.1096009624726" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="387.1096009624726" y="0" width="52.16303072052829" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="439.2726316830009" y="0" width="14.013004644365122" height="8" fill="#67b8de"/>
-                    <rect mask="url(#languages-bar)" x="453.285636327366" y="0" width="2.6740285635028833" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="455.95966489086885" y="0" width="2.449182321968303" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="458.40884721283714" y="0" width="1.0184673286695443" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.4273145415067" y="0" width="0.37031357458667297" height="8" fill="#a86454"/>
-                    <rect mask="url(#languages-bar)" x="459.7976281160934" y="0" width="0.20237188390661665" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="387.07667858023353" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="387.07667858023353" y="0" width="52.1585944285018" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="439.2352730087353" y="0" width="14.050934352897908" height="8" fill="#67b8de"/>
+                    <rect mask="url(#languages-bar)" x="453.28620736163316" y="0" width="2.6738011462797844" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="455.96000850791296" y="0" width="2.448974027169165" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="458.4089825350821" y="0" width="1.018380711415389" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.4273632464975" y="0" width="0.37028208065053564" height="8" fill="#a86454"/>
+                    <rect mask="url(#languages-bar)" x="459.797645327148" y="0" width="0.20235467285191833" height="8" fill="#f7523f"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1813,14 +1813,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">akosidencio/bookspineph-admin</span>
+                                        <span class="repo">akosidencio/bookspineph-theme</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#92b7096</div>
-                                        <div class="message">fixed</div>
+                                        <div class="sha">#6b18f2f</div>
+                                        <div class="message">make offer text in product</div>
                                     </div>
                                 </div>
                             </section>
@@ -1833,14 +1833,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">akosidencio/bookspineph-admin</span>
+                                        <span class="repo">akosidencio/bookspineph-theme</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8ed66fd</div>
-                                        <div class="message">fixed</div>
+                                        <div class="sha">#ebc6c21</div>
+                                        <div class="message">make offer text in product</div>
                                     </div>
                                 </div>
                             </section>
@@ -1853,14 +1853,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">akosidencio/bookspineph-admin</span>
+                                        <span class="repo">akosidencio/bookspineph-theme</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d034a59</div>
-                                        <div class="message">fixed</div>
+                                        <div class="sha">#569cd06</div>
+                                        <div class="message">make offer text in product</div>
                                     </div>
                                 </div>
                             </section>
@@ -1873,14 +1873,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">akosidencio/bookspineph-admin</span>
+                                        <span class="repo">akosidencio/bookspineph-theme</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#16c7eee</div>
-                                        <div class="message">fixed --</div>
+                                        <div class="sha">#25148d7</div>
+                                        <div class="message">make offer text in product</div>
                                     </div>
                                 </div>
                             </section>
@@ -1893,14 +1893,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Lica-Ventures/mechanigo-api</span>
+                                        <span class="repo">akosidencio/bookspineph-theme</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ad247d6</div>
-                                        <div class="message">changed like to ilike</div>
+                                        <div class="sha">#c77bb97</div>
+                                        <div class="message">make offer text in product</div>
                                     </div>
                                 </div>
                             </section>
@@ -2425,7 +2425,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Apr 2022, 13:19:17  with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 3 Apr 2022, 14:11:44  with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
