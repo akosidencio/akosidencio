@@ -333,14 +333,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="386.77569948739335" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="386.77569948739335" y="0" width="52.10802835664607" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="438.8837278440394" y="0" width="14.408988322608494" height="8" fill="#67b8de"/>
-                    <rect mask="url(#languages-bar)" x="453.29271616664795" y="0" width="2.671208982469157" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="455.9639251491171" y="0" width="2.4465998259854955" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="458.41052497510253" y="0" width="1.0173934242234286" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.427918399326" y="0" width="0.3699231041385682" height="8" fill="#a86454"/>
-                    <rect mask="url(#languages-bar)" x="459.79784150346455" y="0" width="0.20215849653543802" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="386.77095680516237" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="386.77095680516237" y="0" width="52.10738940280149" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="438.8783462079639" y="0" width="14.414452204067851" height="8" fill="#67b8de"/>
+                    <rect mask="url(#languages-bar)" x="453.2927984120317" y="0" width="2.6711762278380027" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="455.9639746398697" y="0" width="2.446569825534236" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="458.410544465404" y="0" width="1.0173809488437153" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.4279254142477" y="0" width="0.36991856810454343" height="8" fill="#a86454"/>
+                    <rect mask="url(#languages-bar)" x="459.7978439823522" y="0" width="0.2021560176477762" height="8" fill="#f7523f"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1819,7 +1819,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1c587ea</div>
+                                        <div class="sha">#3be7a59</div>
                                         <div class="message">enbled make offer</div>
                                     </div>
                                 </div>
@@ -1839,7 +1839,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0b7317e</div>
+                                        <div class="sha">#3982651</div>
                                         <div class="message">enbled make offer</div>
                                     </div>
                                 </div>
@@ -1859,7 +1859,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d06d7a8</div>
+                                        <div class="sha">#98deadd</div>
                                         <div class="message">enbled make offer</div>
                                     </div>
                                 </div>
@@ -1877,10 +1877,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a996829</div>
-                                        <div class="message">debug</div>
+                                        <div class="sha">#ff9969d</div>
+                                        <div class="message">enbled make offer</div>
                                     </div>
                                 </div>
                             </section>
@@ -1897,10 +1897,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6fbf681</div>
-                                        <div class="message">debug</div>
+                                        <div class="sha">#c3f7b56</div>
+                                        <div class="message">enbled make offer</div>
                                     </div>
                                 </div>
                             </section>
@@ -2425,7 +2425,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 May 2022, 13:23:43  with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 1 May 2022, 14:13:08  with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
