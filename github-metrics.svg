@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2436" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2752" class="">
     <defs>
         <style/>
     </defs>
@@ -1822,6 +1822,142 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 20 commits in
+                                        <span class="repo">Lica-Ventures/motoxpress-admin</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2180644</div>
+                                        <div class="message">add filter status</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3dff7da</div>
+                                        <div class="message">added filter status</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0c579df</div>
+                                        <div class="message">fixed update status</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8c6b070</div>
+                                        <div class="message">added delete btn and functions on financings/quotaations</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3506707</div>
+                                        <div class="message">added edit/delete button</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f39fdc5</div>
+                                        <div class="message">add more info on financings and quotatoins</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7303824</div>
+                                        <div class="message">added new pages</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1b50241</div>
+                                        <div class="message">changed primary color</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#39169a0</div>
+                                        <div class="message">fixed</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dd37160</div>
+                                        <div class="message">initial form</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2e50b22</div>
+                                        <div class="message">initial form</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7372af3</div>
+                                        <div class="message">form</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#324cf8b</div>
+                                        <div class="message">added motor details page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a43c8f</div>
+                                        <div class="message">added motorcycles</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1ce7a58</div>
+                                        <div class="message">added private route</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c7f3d30</div>
+                                        <div class="message">added private route</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6673a1e</div>
+                                        <div class="message">added private route</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7a56d46</div>
+                                        <div class="message">modify readme</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#83de415</div>
+                                        <div class="message">modify readme</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d9bffdf</div>
+                                        <div class="message">initial commit</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Lica-Ventures/motoxpress-admin</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2180644</div>
+                                        <div class="message">add filter status</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Lica-Ventures/motoxpress-api</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#721bdc8</div>
+                                        <div class="message">add filter status</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">Lica-Ventures/motoxpress-api</span>
                                     </div>
@@ -1851,66 +1987,6 @@
                                     <div class="commit">
                                         <div class="sha">#3dff7da</div>
                                         <div class="message">added filter status</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Lica-Ventures/motoxpress-admin</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0c579df</div>
-                                        <div class="message">fixed update status</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Lica-Ventures/motoxpress-api</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6e9c755</div>
-                                        <div class="message">add patch</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Lica-Ventures/mechanigoph-web</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#df9fa13</div>
-                                        <div class="message">fixed hero h1 mobile</div>
                                     </div>
                                 </div>
                             </section>
@@ -2435,7 +2511,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jun 2022, 13:29:01  with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 14 Jun 2022, 14:12:18  with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
