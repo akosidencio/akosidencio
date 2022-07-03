@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2769" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2453" class="">
     <defs>
         <style/>
     </defs>
@@ -1819,6 +1819,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
+                                        <div class="sha">#a842592</div>
+                                        <div class="message">updates snapshots for onboarding component</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Digitersco/nalav3</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
                                         <div class="sha">#c6a9c99</div>
                                         <div class="message">initial it translation</div>
                                     </div>
@@ -1885,102 +1905,6 @@
                                     <div class="commit">
                                         <div class="sha">#a2aecd4</div>
                                         <div class="message">added fr json</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 46 commits in
-                                        <span class="repo">Lica-Ventures/mechanigoph-web</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a60a7c3</div>
-                                        <div class="message">fixed router query</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b27e293</div>
-                                        <div class="message">added autoselect service if from car diagnostics</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#07c8fdb</div>
-                                        <div class="message">add function for book now, other concern and thank you button</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6931be7</div>
-                                        <div class="message">changed page design</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fda7ae5</div>
-                                        <div class="message">hide button on inital question</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6c0574d</div>
-                                        <div class="message">added function for removing selected list when clicking the back button</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f83c795</div>
-                                        <div class="message">merge all selected question when clicking the next button</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e2a55e</div>
-                                        <div class="message">added a car diagnostic button in booking page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8b36b61</div>
-                                        <div class="message">fixed DOM errors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8864aaa</div>
-                                        <div class="message">added content</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f0fb93</div>
-                                        <div class="message">added css</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f907f7c</div>
-                                        <div class="message">added design</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8c2dd31</div>
-                                        <div class="message">fixed back function</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8aa2701</div>
-                                        <div class="message">add back function</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4b175de</div>
-                                        <div class="message">update api link to staging</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#97d6d0d</div>
-                                        <div class="message">added car diagnostics page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0256ee2</div>
-                                        <div class="message">Merge branch 'dev' of https://github.com/Lica-Ventures/mechanigoph-web into dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3a080f3</div>
-                                        <div class="message">Merge branch 'dev' of https://github.com/Lica-Ventures/mechanigoph-web into dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3c6f9f7</div>
-                                        <div class="message">Merge branch 'dev' of https://github.com/Lica-Ventures/mechanigoph-web into dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c8f423d</div>
-                                        <div class="message">changed API to staging</div>
                                     </div>
                                 </div>
                             </section>
@@ -2505,7 +2429,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jul 2022, 03:29:11  with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 3 Jul 2022, 04:24:21  with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
