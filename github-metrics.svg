@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2573" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2456" class="">
     <defs>
         <style/>
     </defs>
@@ -1813,6 +1813,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
+                                        <div class="sha">#de9c7cd</div>
+                                        <div class="message">fixed--</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Lica-Ventures/carmax-web</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
                                         <div class="sha">#9bcfca9</div>
                                         <div class="message">loading virtual emo</div>
                                     </div>
@@ -1875,56 +1895,6 @@
                                     <div class="commit">
                                         <div class="sha">#0435ea9</div>
                                         <div class="message">disabled buttons if car unavailable</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 8 commits in
-                                        <span class="repo">Lica-Ventures/mechanigoph-web</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#021d4ac</div>
-                                        <div class="message">Merge pull request #92 from Lica-Ventures/package-inclusion-rename
-
-Changed package inclusions list</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#22a40a7</div>
-                                        <div class="message">changed package inclusions list</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ca4ceae</div>
-                                        <div class="message">Merge branch 'master' of https://github.com/Lica-Ventures/mechanigoph-web</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0c98143</div>
-                                        <div class="message">Merge branch 'dev'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b8f9636</div>
-                                        <div class="message">Merge branch 'master' of https://github.com/Lica-Ventures/mechanigoph-web</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d7afd6f</div>
-                                        <div class="message">Merge branch 'dev'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4b32ba7</div>
-                                        <div class="message">Merge branch 'master' of https://github.com/Lica-Ventures/mechanigoph-web</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#99c119c</div>
-                                        <div class="message">Merge branch 'dev'</div>
                                     </div>
                                 </div>
                             </section>
@@ -2449,7 +2419,7 @@ Changed package inclusions list</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jul 2022, 13:43:14  with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 15 Jul 2022, 14:18:17  with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
