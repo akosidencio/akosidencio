@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm akosidencio 👋</h1>
 
-<!--
-**akosidencio/akosidencio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Full Stack Developer | 🧩 Clean Code Advocate | 🌐 API & System Integrator  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+
+I'm a passionate and solutions-driven **Full Stack Developer** with professional experience building scalable web and mobile applications. I enjoy working across the stack, from elegant UIs to robust backend services.
+
+- 🔧 Backend: **Node.js**, **NestJS**, **PHP**, **Laravel**, **Python**, **Flask**
+- 💻 Frontend: **React**, **React Native**, **Next.js**
+- 📦 DevOps: **Docker**
+- 🧠 Always learning and improving
+
+---
+
+### 🛠️ Tech Stack
+
+```bash
+💡 Languages: JavaScript, TypeScript, PHP, Python  
+🧰 Frameworks: Node.js, NestJS, React, React Native, Next.js, Laravel, Flask  
+🔧 Tools: Docker, Git, REST APIs, MySQL, PostgreSQL, MongoDB
+
