@@ -22,10 +22,5 @@ I'm a passionate and solutions-driven **Full Stack Developer** with professional
 ```bash
 💡 Languages: JavaScript, TypeScript, PHP, Python  
 🧰 Frameworks: Node.js, NestJS, React, React Native, Next.js, Laravel, Flask  
-🔧 Tools: Docker, Git, REST APIs, MySQL, PostgreSQL, MongoDB
-
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akosidencio&show_icons=true&theme=default" alt="GitHub Stats" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=akosidencio&theme=default" alt="GitHub Streak" /> </p>
-
-<p align="center"> <em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em> </p>
+🔧 Tools: Docker, Git, REST APIs, MySQL, PostgreSQL, MongoDB, Firebase
 
