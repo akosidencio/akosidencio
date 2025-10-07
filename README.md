@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Dennis 👋</h1>
+<h1 align="center">Hi there, I'm Dennis (Dencio) 👋</h1>
 
 <p align="center">
   🚀 Full Stack Developer | 🧩 Clean Code Advocate | 🌐 API & System Integrator  
