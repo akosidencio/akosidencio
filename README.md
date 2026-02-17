@@ -1,13 +1,12 @@
 <h1 align="center">Hi there, I'm Dennis (Dencio) 👋</h1>
 
 <p align="center">
-  🚀 Full Stack Developer | 🧩 Clean Code Advocate | 🌐 API & System Integrator  
+  Full Stack Developer by day, clean-code advocate by... well, also by day. I build scalable apps, integrate complex systems, and try to leave every codebase better than I found it.
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-
-I'm a passionate and solutions-driven **Full Stack Developer** with professional experience building scalable web and mobile applications. I enjoy working across the stack, from elegant UIs to robust backend services.
+### 🧑‍💻Current Mission: 
+Turning "it works on my machine" into "it works for everyone, everywhere." 🚀
 
 
