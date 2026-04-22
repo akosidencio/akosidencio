@@ -1,12 +1,12 @@
-<h1 align="center">Hi there, I'm Dennis 👋</h1>
+<h1 align="center">Hi there, I'm Dennis (akosidencio) 👋</h1>
 
 <p align="center">
-  Full Stack Developer by day, clean-code advocate by... well, also by day. I build scalable apps, integrate complex systems, and try to leave every codebase better than I found it.
+  Tech Lead by day, open-source Rustacean by night.
+  I spend my time bridging the gap between heavy-duty systems programming and the modern web. I'm actively building open-source tools in Rust, experimenting with WebAssembly, and advocating for clean, heavily tested architectures.
 </p>
 
 ---
 
-### 🧑‍💻Current Mission: 
-Turning "it works on my machine" into "it works for everyone, everywhere." 🚀
+🦀 **Currently hacking on:** Rust CLI tools, WASM, and robust web apps.
 
 
