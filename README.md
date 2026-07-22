@@ -5,7 +5,5 @@
   I spend my time bridging the gap between heavy-duty systems programming and the modern web.
 </p>
 
-### 📫 Let's connect
-- Shoot me an email at `dennis@thinkgrid.dev`
 
 
