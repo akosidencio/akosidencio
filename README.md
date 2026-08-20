@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Tech Lead by day. Open-source Rustacean by night. 🦀</strong><br>
-  Building developer tools and infrastructure for the modern software stack.
+  Building things. Breaking things. Learning why.
 </p>
 
 
